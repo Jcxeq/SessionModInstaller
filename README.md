@@ -11,7 +11,7 @@ Thanks for checking out this installer. This is my first (focused) project. I've
 
 [![Alt text for broken image link](images/python.png)](https://www.python.org/downloads/)
 ```bash
-2) Make sure to EXTRACT the SessionModInstaller folder to -> C/.
+2) Make sure to download the SessionModInstaller from releases, and EXTRACT folder to -> C/.
 ```
 [![Alt text for broken image link](images/cdrive.png)](https://github.com/Jcxeq/SessionModInstaller)
 ```bash
